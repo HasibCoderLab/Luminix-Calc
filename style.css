@@ -176,3 +176,48 @@ body::after {
         text-shadow: 0 0 20px #ee5253;
     }
 }
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    body {
+        margin-top: 20px; /* Reduced margin for smaller screens */
+    }
+
+    #calculator {
+        width: 90%; /* Make calculator width responsive */
+        padding: 10px; /* Reduced padding */
+    }
+
+    #display {
+        font-size: 1.4rem; /* Adjust font size for display */
+        padding: 10px; /* Adjust padding */
+    }
+
+    #keys button {
+        padding: 10px; /* Adjust button padding */
+        font-size: 1rem; /* Adjust button font size */
+    }
+
+    #keys {
+        grid-template-columns: repeat(3, 1fr); /* Change button layout */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #calculator {
+        width: 95%; /* Further reduce width */
+    }
+
+    #display {
+        font-size: 1.2rem; /* Further adjust font size */
+    }
+
+    #keys button {
+        padding: 8px; /* Further adjust button padding */
+        font-size: 0.9rem; /* Further adjust button font size */
+    }
+
+    #keys {
+        grid-template-columns: repeat(2, 1fr); /* Adjust button layout for very small screens */
+    }
+}
