@@ -33,7 +33,7 @@ A futuristic, glowing calculator web app with animations, responsive design, and
 
 ## 🧪 Live Demo
 
-🔗 [https://luminixcalc.vercel.app](https://luminixcalc.vercel.app)
+🔗 (https://luminix-calc.vercel.app/)
 
 ---
 
@@ -52,8 +52,3 @@ A futuristic, glowing calculator web app with animations, responsive design, and
 
 ---
 
-## 📸 Favicon Prompt Suggestion
-
-Use this for AI/icon generator:
-
-> "**A futuristic glowing calculator icon with soft blue and neon green colors, sleek modern design, dark background, glassmorphism effect, and a luminous power-button-like symbol in the center.**"
