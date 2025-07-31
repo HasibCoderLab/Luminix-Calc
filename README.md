@@ -40,7 +40,7 @@ A futuristic, glowing calculator web app with animations, responsive design, and
 ## 🧠 Author
 
 **Mohammad Hasib Hasan**  
-🚀 Dreamer • Coder • Future Hacker
+🚀 Dreamer • Coder • 
 
 ---
 
